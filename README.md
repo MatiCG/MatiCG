@@ -1,7 +1,8 @@
 # Hi there! I am Matias 👋
-### I am a developer, 5th year student at Epitech, C/C++ and Python lover, sometimes I dip into DevOps
+### I am a developer, 5th year student at Epitech, I like Networks, a bit of AI and sometimes DevOps
 
-- 💬 Ask me about: 
+- 🔭 I’m currently working on a Python API and on automatic deployment of a large solution
+- 🌱 I’m currently learning Django and I've been looking at D
 - 👯 I’m looking to collaborate on open-source projects in C/C++ or Python
 - 🥅 2021 Goals: Be active during Hacktoberfest. Improve my korean
 - ⚡ Fun fact: I am an avid climber and film photographer.
