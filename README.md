@@ -12,6 +12,9 @@
 
 (you can check the creator of this playing card by clicking on it)
 
+### My GitHub Stats 🎧
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiCG)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Languages and Tools:
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
