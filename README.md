@@ -14,9 +14,9 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/MatiCG/MatiCG/main/images/c.svg" />
-<img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/MatiCG/MatiCG/main/images/cplusplus.svg" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/MatiCG/MatiCG/main/images/python.png" />
-
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 <img align="left" alt="Docker" width="80px" src="https://raw.githubusercontent.com/MatiCG/MatiCG/main/images/docker.png" />
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/MatiCG/MatiCG/main/images/terminal.png" />
