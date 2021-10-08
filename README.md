@@ -14,7 +14,7 @@
 
 (you can check the creator of this playing card by clicking on it)
 
-### My GitHub Stats 🎧
+### My GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiCG&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
