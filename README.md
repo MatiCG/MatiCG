@@ -5,7 +5,12 @@
 - 🔭 I’m currently working on a Python API and on automatic deployment of a large solution
 - 🌱 I’m currently learning Django and I've been looking at D
 - 👯 I’m looking to collaborate on open-source projects in C/C++ or Python
-- 🥅 2021 Goals: Be active during Hacktoberfest. Improve my korean
+- 🥅 2022 Goals:
+  * [ ] Be active during Hacktoberfest.
+  * [ ] Improve my korean.
+  * [ ] Make a private project with Flutter.
+  * [ ] Get into CP.
+  * [ ] Make a C++ graphical project.
 - ⚡ Fun fact: I am an avid climber and film photographer.
 - 💻  Connect with me on [LinkedIn](https://www.linkedin.com/in/matias-castro-guzman/)
 
