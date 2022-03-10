@@ -1,7 +1,7 @@
 # Hi there! I am Matias 👋
 ### I am a developer, 5th year student at Epitech, I like Networks, a bit of AI and sometimes DevOps
 
-- 🏢  I'm currently working at [Generix Group](https://www.generixgroup.com/)
+- 🏢  I'm currently working at [Zala Company](https://zalacompany.com/)
 - 🔭 I’m currently working on app development
 - 🌱 I’m currently learning Django and React Native
 - 👯 I’m looking to collaborate on open-source projects in C/C++ or Python
