@@ -1,9 +1,9 @@
 # Hi there! I am Matias 👋
 ### I am a developer, 5th year student at Epitech, I like Networks, a bit of AI and sometimes DevOps
 
-- 🏢  I'm currently working at [Zala Company](https://zalacompany.com/)
-- 🔭 I’m currently working on app development
-- 🌱 I’m currently learning Django and React Native
+- 🏢  I'm currently working as a Freelance
+- 🔭 I’m currently working on app development and Go projects
+- 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on open-source projects in C/C++ or Python
 - 🥅 2022 Goals:
   * [ ] Be active during Hacktoberfest.
