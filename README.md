@@ -1,15 +1,15 @@
 # Hi there! I am Matias 👋
-### I am a developer, 5th year student at Epitech, I like Networks, a bit of AI and sometimes DevOps
+### I am a developer, I like Networks, Embedded, Web, a bit of AI and sometimes DevOps
 
 - 🏢  I'm currently working as a Freelance
-- 🔭 I’m currently working on app development and Go projects
-- 🌱 I’m currently learning Golang
-- 👯 I’m looking to collaborate on open-source projects in C/C++ or Python
-- 🥅 2022 Goals:
+- 🔭 I’m currently working on app development
+- 🌱 I’m currently learning Solidity
+- 👯 I’m looking to collaborate on open-source projects in C/C++, React or Python
+- 🥅 2023 Goals:
   * [ ] Be active during Hacktoberfest.
   * [ ] Improve my korean.
   * [ ] Make a private project with Flutter.
-  * [ ] Get into CP.
+  * [ ] Study more algorithms.
   * [ ] Make a C++ graphical project.
 - ⚡ Fun fact: I am an avid climber and film photographer.
 - 💻  Connect with me on [LinkedIn](https://www.linkedin.com/in/matias-castro-guzman/)
