@@ -3,7 +3,7 @@
 
 - 🏢  I'm currently working as a Freelance
 - 🔭 I’m currently working on app development
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning Solidity and Rust
 - 👯 I’m looking to collaborate on open-source projects in C/C++, React or Python
 - 🥅 2023 Goals:
   * [ ] Be active during Hacktoberfest.
