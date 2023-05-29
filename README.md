@@ -8,9 +8,10 @@
 - 🥅 2023 Goals:
   * [ ] Be active during Hacktoberfest.
   * [ ] Improve my korean.
-  * [ ] Make a private project with Flutter.
+  * [x] Make a private project with Flutter.
   * [ ] Study more algorithms.
   * [ ] Make a C++ graphical project.
+  * [ ] Reach 1000 points on root-me
 - ⚡ Fun fact: I am an avid climber and film photographer.
 - 💻  Connect with me on [LinkedIn](https://www.linkedin.com/in/matias-castro-guzman/)
 
