@@ -23,55 +23,71 @@
 ### My GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiCG&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+### Badges
+
+[![An image of @maticg's Holopin badges](https://holopin.me/maticg)](https://holopin.io/@maticg)
+
 ### Languages and Tools:
 
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C#" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
       </a>
       <br>C
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="CPP" />
       </a>
       <br>C++
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Golang" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JS" />
       </a>
       <br>JavaScript
     </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" width="48" height="48" alt="Elixir" />
+      </a>
+      <br>Elixir
+    </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
       </a>
       <br>Firebase
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
