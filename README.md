@@ -1,13 +1,12 @@
 # Hi there! I am Matias 👋
 ### I am a developer, I like Networks, Embedded, Web, a bit of AI and sometimes DevOps
 
-- 🏢  I'm currently working as a Freelance
-- 🔭 I’m currently working on app development
+- 🏢 I'm currently working at KBRW
 - 🌱 I’m currently learning Solidity and Rust
 - 👯 I’m looking to collaborate on open-source projects in C/C++, React or Python
 - 🥅 2023 Goals:
   * [ ] Be active during Hacktoberfest.
-  * [ ] Improve my korean.
+  * [x] Improve my korean.
   * [x] Make a private project with Flutter.
   * [ ] Study more algorithms.
   * [ ] Make a C++ graphical project.
@@ -18,14 +17,10 @@
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1148638820&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
-(you can check the creator of this playing card by clicking on it)
 
 ### My GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiCG&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### Badges
-
-[![An image of @maticg's Holopin badges](https://holopin.me/maticg)](https://holopin.io/@maticg)
 
 ### Languages and Tools:
 
